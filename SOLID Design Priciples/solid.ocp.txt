@@ -1,0 +1,4 @@
+Classes are open for extension but close for modification
+Meaning: you never jump into any existing class and start modify
+it unless you absolutely have to unless there is like a bug in there
+
